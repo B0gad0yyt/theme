@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "light": {
+      "primary": "#07a7e3",
+      "anchor": "#07a7e3",
+      "accent": "#65a5f8",
+      "info": "#2196f3",
+      "success": "#4caf50",
+      "warning": "#fb8c00",
+      "error": "#ff5252"
+    },
+    "dark": {
+      "primary": "#3b3940",
+      "anchor": "#161091",
+      "accent": "#30750b",
+      "info": "#1fff53",
+      "success": "#1fff53",
+      "warning": "#ffa91f",
+      "error": "#b52d04"
+    }
+  }
+}
